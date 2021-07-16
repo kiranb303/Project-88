@@ -1,0 +1,26 @@
+[
+    {
+      "title": "The Most Beautiful scenery",
+      "author": "Ranjeet",
+      "created_on": "25th January, 2021",
+      "caption": "A calming picture taken in the Himalayas"
+    },
+    {
+      "title": "Beautiful Image Captured in the Himalayas",
+      "author": "Suraj",
+      "created_on": "14th February, 2021",
+      "caption": "A calming picture taken in the Himalayan Ranges"
+      },
+      {
+        "title": "Mountain Capture",
+        "author": "Sushant",
+        "created_on": "28th January, 2021",
+        "caption": "A calming picture taken in the Himalayas"
+      },
+      {
+        "title": "The Beauty of Nature",
+        "author": "Prashant",
+        "created_on": "19th February, 2021",
+        "caption": "A calming picture taken in the Himalayan Ranges"
+        }
+  ]
