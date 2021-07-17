@@ -63,7 +63,7 @@ export default class PostCard extends React.Component{
                         <Image source = {images[this.props.post.value.previewImage]} style = {styles.postImg} />
                         <View style = {styles.titleContainer}>
                             <Text style = {this.state.lightTheme?styles.titleTextLight:styles.titleText}>
-                                {this.props.post.title}
+                                {this.props.post.value.title}
                             </Text>
                             
                             <Text style = {this.state.lightTheme?styles.captionTextLight:styles.captionText}>
